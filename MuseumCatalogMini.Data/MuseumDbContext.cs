@@ -13,7 +13,7 @@ namespace MuseumCatalogMini.Data
 {
     public class MuseumDbContext : DbContext
     {
-        public MuseumDbContext(DbContextOptions options) : base(options)
+        public MuseumDbContext(DbContextOptions<MuseumDbContext> options) : base(options)
         {
         }
 
