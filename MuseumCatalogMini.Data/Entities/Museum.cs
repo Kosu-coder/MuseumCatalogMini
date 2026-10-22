@@ -7,7 +7,7 @@ using System.Threading.Tasks;
 
 namespace MuseumCatalogMini.Data.Entities
 {
-    internal class Museum
+    public class Museum
     {
         public string Name { get; set; } = string.Empty;
         public string Region { get; set; } = string.Empty;
