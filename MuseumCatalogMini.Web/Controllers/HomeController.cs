@@ -1,0 +1,12 @@
+using Microsoft.AspNetCore.Mvc;
+
+namespace MuseumCatalogMini.Web.Controllers;
+
+public class HomeController : Controller
+{
+    public IActionResult Index()
+    {
+        return Content(
+            "MuseumCatalogMini - ???????? ??? Data ???? ? ?????????????.");
+    }
+}

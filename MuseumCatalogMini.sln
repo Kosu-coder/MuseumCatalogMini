@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.37111.16 d17.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MuseumCatalogMini.Web", "MuseumCatalogMini.Web\MuseumCatalogMini.Web.csproj", "{9117D418-A826-4775-81B4-386395FCC3DB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MuseumCatalogMini.Data", "MuseumCatalogMini.Data\MuseumCatalogMini.Data.csproj", "{142F1250-8C7F-4E2C-AB18-4E1566204654}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9117D418-A826-4775-81B4-386395FCC3DB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9117D418-A826-4775-81B4-386395FCC3DB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9117D418-A826-4775-81B4-386395FCC3DB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9117D418-A826-4775-81B4-386395FCC3DB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{142F1250-8C7F-4E2C-AB18-4E1566204654}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{142F1250-8C7F-4E2C-AB18-4E1566204654}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{142F1250-8C7F-4E2C-AB18-4E1566204654}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{142F1250-8C7F-4E2C-AB18-4E1566204654}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {26363177-89F2-4ED0-A56F-716013CBDDB7}
+	EndGlobalSection
+EndGlobal
